@@ -1,2 +1,3 @@
-# html5-template-full-version
-HTML5 Template - full version
+# HTML5 Template - Full version
+
+Standard HTML5 template.
